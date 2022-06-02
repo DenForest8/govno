@@ -1,2 +1,2 @@
-# govno
+# project
 muhi priletaite
